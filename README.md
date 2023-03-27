@@ -30,7 +30,7 @@ Para o desenvolvimento deste projeto utilizei as seguintes tecnologias:
 </ul>
 
 ## ⚖ Licença
-Esse projeto está sob licença MIT. Veja o arquivo <a href="https://github.com/nataliakrein/login-page/blob/main/LICENSE">LICENÇA</a> para mais detalhes.
+Esse projeto está sob licença MIT. Veja o arquivo <a href="">LICENÇA</a> para mais detalhes.
 ## 
 
 ## 
