@@ -29,7 +29,9 @@ Para o desenvolvimento deste projeto utilizei as seguintes tecnologias:
   <li>CSS3.</li>
 </ul>
 
-
+## ⚖ Licença
+Esse projeto está sob licença MIT. Veja o arquivo <a href="https://github.com/nataliakrein/login-page/blob/main/LICENSE">LICENÇA</a> para mais detalhes.
+## 
 
 ## 
 ##### Coded with  by <a href="https://github.com/nataliakrein/">Luiz Gustavo</a>
