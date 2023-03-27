@@ -11,11 +11,13 @@ Principais conceitos colocados em prática:
 </ul> 
 
 ### 💻 Versão desktop
-![laptop](img)
+![laptop](https://user-images.githubusercontent.com/125038498/227854597-2993dbe9-34a7-4d46-bd43-5ccb8823656b.png)
+
 
 
 ### 📱 Versão mobile
-![mobile](img)
+![mobile](https://user-images.githubusercontent.com/125038498/227854800-5d91fa74-e621-4850-914f-910059cb9316.png)
+
 
 
 ## 🛠 Tecnologias
