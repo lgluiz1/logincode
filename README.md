@@ -1,5 +1,5 @@
-# Login page 📋💻💛
-O projeto consiste na criação de uma página de login, tendo como objetivo verificar se o formulário foi preenchido de forma correta.
+# Login page 📋💻
+O projeto consiste na criação de uma página de login.
 Para visitar o projeto, <a href="https://lgluiz1.github.io/logincode/">clique aqui</a>.
 
 Principais conceitos colocados em prática:
