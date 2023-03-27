@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>Login Code</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="menu_hamburge" onclick="menuMobile()" >
+                
+  <div class="plate plate4" onclick="this.classList.toggle('active')" >
+    <svg class="burger" version="1.1" height="100" width="100" viewBox="0 0 100 100">
+      <path class="line line1" d="M 50,35 H 30" />
+      <path class="line line2" d="M 50,35 H 70" />
+      <path class="line line3" d="M 50,50 H 30" />
+      <path class="line line4" d="M 50,50 H 70" />
+      <path class="line line5" d="M 50,65 H 30" />
+      <path class="line line6" d="M 50,65 H 70" />
+    </svg>
+    <svg class="x" version="1.1" height="100" width="100" viewBox="0 0 100 100">
+      <path class="line" d="M 34,32 L 66,68" />
+      <path class="line" d="M 66,32 L 34,68" />
+    </svg>
+  </div>
+            </div>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            
+            <div id="navegationMobile">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <div class="group">
+                <svg class="icon" aria-hidden="true" viewBox="0 0 24 24"><g><path d="M21.53 20.47l-3.66-3.66C19.195 15.24 20 13.214 20 11c0-4.97-4.03-9-9-9s-9 4.03-9 9 4.03 9 9 9c2.215 0 4.24-.804 5.808-2.13l3.66 3.66c.147.146.34.22.53.22s.385-.073.53-.22c.295-.293.295-.767.002-1.06zM3.5 11c0-4.135 3.365-7.5 7.5-7.5s7.5 3.365 7.5 7.5-3.365 7.5-7.5 7.5-7.5-3.365-7.5-7.5z"></path></g></svg>
+                <input placeholder="Search" type="search" class="input">
+              </div>
+        </nav>
+    </header>
+    <main>
+        <div class="contexto">
+            <div class="logo">
+                <ion-icon class="branch" name="git-branch"></ion-icon>
+                <h1>Login Code</h1>
+            </div>
+            <div class="welcome">
+                <h1>Bem Vindo!</h1>
+                <h2>Este e nosso site.</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium, quidem harum nobis porro at eos tempore assumenda culpa cumque cum tempora? Sit iste itaque iusto natus nemo nobis corrupti ipsum.</p>
+                <div class="sociais">
+                    
+                    <a href="#"><ion-icon name="logo-linkedin"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-whatsapp"></ion-icon></a>
+                </div>    
+            </div>
+        </div>
+        <div class="login">
+            <div class="input_login">
+                <div class="login-box">
+                    <p>Login</p>
+                    <form>
+                      <div class="user-box">
+                        <input required="" name="" type="text">
+                        <label>Email</label>
+                      </div>
+                      <div class="user-box">
+                        <input required="" name="" type="password">
+                        <label>Senha</label>
+                      </div>
+                      <a href="#">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        Entra
+                      </a>
+                    </form>
+                    <p>Não tem conta? <a href="#" class="a2" onclick="registroConta()">Registe-se!</a></p>
+                  </div>
+            </div>
+            <div class="registro">
+                <div class="input_registro">
+                    <p>Cria sua conta!</p>
+                    <form>
+                        <div class="user-box">
+                          <input required="" name="" type="text">
+                          <label>Nome</label>
+                        </div>
+                        <div class="user-box">
+                            <input required="" name="" type="text">
+                            <label>Email</label>
+                          </div>
+                        <div class="user-box">
+                          <input required="" name="" type="password">
+                          <label>Senha</label>
+                        </div>
+                        <a href="#">
+                          <span></span>
+                          <span></span>
+                          <span></span>
+                          <span></span>
+                          Registrar
+                        </a>
+                      </form>
+                      <p>Ja tem Conta? <a href="#" class="a2" onclick="fazerLogin()">Fazer Login!</a></p>
+                  </div>
+            </div>
+        </div>
+        
+    </main>
+    <footer>
+        <p>Desenvolvido e Projetado Por</p>
+        <a href="#">Luiz Gustavo</a>
+    </footer>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script src="./assets/js/main.js"></script>
+</body>
+</html>
