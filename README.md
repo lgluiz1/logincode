@@ -34,4 +34,4 @@ Esse projeto está sob licença MIT. Veja o arquivo <a href="">LICENÇA</a> para
 ## 
 
 ## 
-##### Coded with  by <a href="https://github.com/nataliakrein/">Luiz Gustavo</a>
+##### Coded with  by <a href="https://github.com/lgluiz1/">Luiz Gustavo</a>
